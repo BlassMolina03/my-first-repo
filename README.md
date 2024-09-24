@@ -1,4 +1,5 @@
 # my-first-repo
 Class Assignment 1
 
-#This is my first GitHub repository
+# This is my first GitHub repository
+This is a change made on the new feature branch
